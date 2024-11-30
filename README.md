@@ -1,7 +1,7 @@
 # COS801 Final Project: Abnormal Crowd Surveillance Behavior Detection Using 3D CNNs
 
 ## Aim
-The goal of this project is to implement a deep learning model using 3D convolutional networks to process video data to enable the detection and identification of abnormal behavior in crowd surveillance scenarios.
+The goal of this project is to implement a deep learning model using 3D convolutional neural networks to process video data to enable the detection and identification of abnormal behavior in video surveillance scenarios.
 
 ## Methodology
 
@@ -22,7 +22,6 @@ The above mentioned models are also used for classification. There are 2 classes
 ## Repository Contents
 - **Python Script used for analysis**
 - **Reference Materials used in research (code)**
-- **Abnormal Crowd Video Dataset used in analysis**
 
 ## References
 1. Dataset: [Link](https://www.crcv.ucf.edu/projects/Abnormal_Crowd/)
