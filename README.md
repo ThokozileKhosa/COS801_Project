@@ -20,8 +20,8 @@ The above mentioned models are also used for classification. There are 2 classes
 3. **Confusion Matrix**
 
 ## Repository Contents
-- **Python Script used for analysis**
-- **Reference Materials used in research (code)**
+- **Python Script used for COS801 Porject (code)**
+- **Reference Materials used in research (folder)**
 
 ## References
 1. Dataset: [Link](https://www.crcv.ucf.edu/projects/Abnormal_Crowd/)
